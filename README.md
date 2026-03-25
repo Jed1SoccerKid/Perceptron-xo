@@ -5,7 +5,7 @@ A perceptron classifier that predicts whether a drawn symbol is an L or T.
 ## How it works
 - Draw on the 5x5 grid by clicking the cells
 - Click Classify to get a prediction
-- Uses a perceptron trained on 200 samples (100 L, 00 T)
+- Uses a perceptron trained on 200 samples (100 L, 100 T)
 - Achieves 92.5% test accuracy 
 
 ## Files
